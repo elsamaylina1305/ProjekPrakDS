@@ -1,6 +1,8 @@
 # ProjekPrakDS
 
-Sentiment Analisis Review Bisnis Pakaian Wanita (Metode Naïve Bayes Classifier)
+Analisis Sentimen Review Tingkat Kepopuleran Bisnis Pakaian Wanita 
+
+(Metode Naïve Bayes Classifier)
 
 1. Elsa Maylina P.R /123180024
 
